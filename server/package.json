@@ -1,0 +1,6 @@
+{
+  "name": "stripe-server",
+  "private": true,
+  "scripts": { "start": "node --env-file=.env server.js" },
+  "dependencies": { "cors": "^2.8.5", "express": "^4.19.2", "stripe": "^17.0.0" }
+}

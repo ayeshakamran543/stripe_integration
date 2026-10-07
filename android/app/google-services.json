@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "887418564119",
+    "project_id": "stripe-integration-eb957",
+    "storage_bucket": "stripe-integration-eb957.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887418564119:android:043b291950ab6da8b6b652",
+        "android_client_info": {
+          "package_name": "com.example.stripe_integration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWZtAWXEobf7zg4-Xkagl1wpVCMvnhM6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
