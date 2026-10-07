@@ -2,12 +2,6 @@
 
 A bookstore app built with Flutter that lets users browse books, add them to a cart and pay with the **Stripe Payment Sheet**. Payments are created securely on the backend by a **Firebase Cloud Function**, so the Stripe secret key never lives in the app.
 
-## Demo
-
-https://github.com/<your-username>/<your-repo>/assets/<video-id>/demo.mp4
-
-> Placeholder: drag-and-drop `docs/video/demo.mp4` into a GitHub issue/README edit to get the hosted URL, or link a YouTube/Drive video here.
-
 ## Screenshots
 
 | Store | Cart | Stripe Payment Sheet | Library |
